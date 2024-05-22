@@ -8,8 +8,8 @@ Hardware requirements
 
 
 Installation guide
-1. Pre-Install  sudo apt install tmux git -y && tmux new -s initia
-2. Install    curl -o install_initia.sh https://raw.githubusercontent.com/solotop999/validator_initia/main/install_initia.sh
+1. Pre-Install:  sudo apt install tmux git -y && tmux new -s initia
+2. Install:    curl -o install_initia.sh https://raw.githubusercontent.com/solotop999/validator_initia/main/install_initia.sh
 chmod +x install_initia.sh
 
 .Change 'YOUR_NODE_NAME' to your name:  ./install_initia.sh YOUR_NODE_NAME
